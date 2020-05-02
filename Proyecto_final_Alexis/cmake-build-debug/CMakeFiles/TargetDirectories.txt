@@ -1,0 +1,3 @@
+C:/Users/Arturo Zamudio/CLionProjects/Proyecto_final_Alexis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arturo Zamudio/CLionProjects/Proyecto_final_Alexis/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Arturo Zamudio/CLionProjects/Proyecto_final_Alexis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
